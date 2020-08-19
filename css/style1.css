@@ -1,0 +1,16 @@
+/* Шаги с 1 по 5 */
+body{
+    font-style: 9px;
+    border: 1px solid red;
+    color: blue;
+}
+
+h2{
+    border: inherit;
+    color: initial;
+}
+
+p{
+    border: unset;
+    color: unset;
+}
